@@ -1,8 +1,8 @@
-Invoke - AI Chat Assistant
+Agentic AI - AI Chat Assistant
 
 Overview
 
-Invoke is an AI-powered chat assistant built using Node.js and LangChain. The application leverages the Groq API for language model inference and the Tavily API for real-time web search. It features intelligent tool calling, conversation memory, and 24-hour chat history storage, enabling context-aware and informative interactions.
+Agents is an AI-powered chat assistant built using Node.js and LangChain. The application leverages the Groq API for language model inference and the Tavily API for real-time web search. It features intelligent tool calling, conversation memory, and 24-hour chat history storage, enabling context-aware and informative interactions.
 
 Features
 
